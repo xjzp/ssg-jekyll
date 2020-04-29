@@ -1,6 +1,6 @@
 ## Welcome
 
-This is Jekyll.
+This is Jekyll, a Ruby based SSG!
 
 ### Testing Area
 
